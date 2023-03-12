@@ -1,21 +1,17 @@
 # AVOID: Autonomous Vehicle Operation Incident Dataset
-## Documentation
-The dataset documentation and file format description can be found [here]().
-#  AVOID Data
+## Overview
 
 <img src="https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/asset/overview.png" width="100%">
 
 # Raw Data
-###### United States Autonomous Vehicle Collision Reports:  
+### United States Autonomous Vehicle Collision Reports:  
 Yesr  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-2019 | 35 | 20
-2020 | 1 |1
-2021 | 1 |1
-2022 | 1 |1
-2023 | 1 |1
+2021 | 140 |407|7
+2022 | 339 |1222|25
+2023 | 7 |45|0
 
-###### California Autonomous Vehicle Collision Reports(Short Form):  [Download](https://drive.google.com/drive/folders/1kiEdCA-K9pE-xoPWvUHb80-HaZ61PQni?usp=share_link)
+### California Autonomous Vehicle Collision Reports(Short Form):  [Download](https://drive.google.com/drive/folders/1kiEdCA-K9pE-xoPWvUHb80-HaZ61PQni?usp=share_link)
 Year  |   Number of Collision Reports
 :-------------------------:|:-------------------------:
 2019 | 105
@@ -24,17 +20,19 @@ Year  |   Number of Collision Reports
 2022 | 155
 2023 | 1
 
-###### News / Social Media(35): 
+
+[Data Source](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/)
+
+### News / Social Media(35): 
 Country  |   Number of Collision from News |  Number of Collision From Video
 :-------------------------:|:-------------------------:|:-------------------------:
 China | 35 | 20
 Europe | 1 |1
 
-###### News / Social Media(418): 
 
 ## Citation
 
-If you use CitySim Dataset in your research , please use the following BibTeX entry.
+If you use AVOID Dataset in your research , please use the following BibTeX entry.
 ```BibTeX
 @misc{,
   doi = {,
