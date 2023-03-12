@@ -21,7 +21,7 @@ Yesr  |   Number of Collision from ADS |  Number of Collision From ADAS | Number
 2018 | 75|-|-
 2019 | 105 |2|-
 2020 | 44 |11|-
-2021 | 63 |235|-
+2021 | 141 |235|-
 2022 | 229 |549|4
 2023 | 1 |22|4
 
