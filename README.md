@@ -3,6 +3,13 @@
 
 <img src="https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/asset/overview.png" width="100%">
 
+
+
++ ADS: SAE Levels 3-5 automated driving system
++ ADA: SAE Level 2 advanced driver assistance system
++ Low-speed shuttles: ADS or ADAS equipped shuttle
+
+
 # Raw Data
 ### United States Autonomous Vehicle Collision Reports:  
 Yesr  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle
@@ -19,7 +26,6 @@ Year  |   Number of Collision Reports
 2021 | 117
 2022 | 155
 2023 | 1
-
 
 [Data Source](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/)
 
