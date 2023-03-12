@@ -14,7 +14,7 @@ Yesr  |   Number of Collision from ADS |  Number of Collision From ADAS | Number
 2022 | 1 |1
 2023 | 1 |1
 
-###### California Autonomous Vehicle Collision Reports(418):  [Download](https://drive.google.com/drive/folders/1kiEdCA-K9pE-xoPWvUHb80-HaZ61PQni?usp=share_link)
+###### California Autonomous Vehicle Collision Reports(Short Form):  [Download](https://drive.google.com/drive/folders/1kiEdCA-K9pE-xoPWvUHb80-HaZ61PQni?usp=share_link)
 Year  |   Number of Collision Reports
 :-------------------------:|:-------------------------:
 2019 | 105
