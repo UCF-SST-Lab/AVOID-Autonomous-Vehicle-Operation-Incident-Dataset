@@ -8,7 +8,7 @@
 + ADS: SAE Levels 3-5 automated driving system
 + ADA: SAE Level 2 advanced driver assistance system
 + Low-speed shuttles: ADS or ADAS equipped shuttle
-### AVOID Autonomous Vehicle Collision Reports:  
+### AVOID  Data Summary:  
 Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 2014 | 1|-|-
@@ -63,7 +63,7 @@ If you use AVOID Dataset in your research , please use the following BibTeX entr
   doi = {,
   url = {},
   author = {Zheng, Ou and Abdel-Aty, Mohamed and Wang, Zijing and Ding, Shengxuan and Wang,DongDong },  
-  title = {AVOID: Autonomous Vehicle Operation  Incident  Dataset },
+  title = {AVOID: Autonomous Vehicle Operation  Incident  Dataset From Different Country},
   publisher = {arXiv},
   year = {2023}
 }
