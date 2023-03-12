@@ -23,13 +23,13 @@ Year  |   Number of Collision Reports
 2022 | 155
 2023 | 1
 
-###### News / Social Media(35):  [Download]()
+###### News / Social Media(35): 
 Country  |   Number of Collision from News |  Number of Collision From Video
 :-------------------------:|:-------------------------:|:-------------------------:
 China | 35 | 20
 Europe | 1 |1
 
-###### News / Social Media(418):  [Download]()
+###### News / Social Media(418): 
 
 ## Citation
 
