@@ -3,6 +3,7 @@
 The dataset documentation and file format description can be found [here]().
 #  AVOID Data
 
+<img src="https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/asset/overview.png" width="100%">
 
 # Raw Data
 ###### United States Autonomous Vehicle Collision Reports:  
