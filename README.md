@@ -14,8 +14,13 @@
 ### United States Autonomous Vehicle Collision Reports:  
 Yesr  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-2019 | - |2|-
-2020 | - |11|-
+2014 | 1|-|-
+2015 | 9|-|-
+2016 | 15|-|-
+2017 | 29|-|-
+2018 | 75|-|-
+2019 | 105 |2|-
+2020 | 44 |11|-
 2021 | 63 |235|-
 2022 | 229 |549|4
 2023 | 1 |22|4
@@ -23,11 +28,16 @@ Yesr  |   Number of Collision from ADS |  Number of Collision From ADAS | Number
 ### California Autonomous Vehicle Collision Reports(Short Form):  [Download](https://drive.google.com/drive/folders/1kiEdCA-K9pE-xoPWvUHb80-HaZ61PQni?usp=share_link)
 Year  |   Number of Collision Reports
 :-------------------------:|:-------------------------:
+2014 | 1
+2015 | 9
+2016 | 15
+2017 | 29
+2018 | 75
 2019 | 105
 2020 | 44
 2021 | 117
 2022 | 155
-2023 | 1
+2023 | 15
 
 [Data Source](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/)
 
