@@ -53,6 +53,7 @@ Year  |   Number of Collision Reports|   Number of Disengagement Reports
 2023 | 15|-
 ### News / Social Media(35): 
 >Data were obited and collected from differernt websit and app
+
 Country  |   Number of Collision from News |  Number of Collision From Video
 :-------------------------:|:-------------------------:|:-------------------------:
 China | 35 | 20
