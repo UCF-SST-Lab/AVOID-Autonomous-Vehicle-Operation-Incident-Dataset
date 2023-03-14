@@ -18,8 +18,8 @@ Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number
 2018 | 75|-|-
 2019 | 105 |2|-
 2020 | 44 |11|-
-2021 | 141 |263|-
-2022 | 229 |613|4
+2021 | 258 |263|-
+2022 | 379 |613|4
 2023 | 1 |22|4
 
 # Raw Data 
@@ -48,8 +48,8 @@ Year  |   Number of Collision Reports|   Number of Disengagement Reports
 2018 | 75 |70
 2019 | 105 |120
 2020 | 44 |127
-2021 | 117|112
-2022 | 155|201
+2021 | 195|112
+2022 | 215|201
 2023 | 15|-
 ### News / Social Media(35): 
 >Data were obited and collected from differernt websit and app
