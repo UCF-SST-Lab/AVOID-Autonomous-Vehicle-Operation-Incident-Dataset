@@ -67,7 +67,7 @@ If you use AVOID Dataset in your research , please use the following BibTeX entr
 @misc{,
   doi = {,
   url = {},
-  author = {Zheng, Ou and Abdel-Aty, Mohamed and Wang, Zijing and Ding, Shengxuan and Wang,DongDong },  
+  author = {Zheng, Ou and Abdel-Aty, Mohamed and Wang, Zijin and Ding, Shengxuan and Wang,DongDong },  
   title = {AVOID: Autonomous Vehicle Operation  Incident  Dataset From Different Country},
   publisher = {arXiv},
   year = {2023}
