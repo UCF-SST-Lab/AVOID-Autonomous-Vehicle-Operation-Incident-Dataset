@@ -6,7 +6,7 @@
 
 
 + ADS: SAE Levels 3-5 automated driving system
-+ ADA: SAE Level 2 advanced driver assistance system
++ ADAS: SAE Level 2 advanced driver assistance system
 + Low-speed shuttles: ADS or ADAS equipped shuttle
 ### AVOID  Data Summary:  
 Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle
@@ -18,9 +18,9 @@ Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number
 2018 | 75|-|-
 2019 | 102 |2|-
 2020 | 45 |11|-
-2021 | 180 |263|-
-2022 | 314 |613|4
-2023 | 1 |22|4
+2021 | 180 |249|-
+2022 | 314 |581|3
+2023 | 2 |22|3
 
 # Raw Data 
 
