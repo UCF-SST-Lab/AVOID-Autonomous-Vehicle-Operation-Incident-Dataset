@@ -28,7 +28,7 @@ Year  |   Number of Collision Reports|   Number of Disengagement Reports
 2022 | 150|201
 2023 | 1|-
 ### News / Social Media(35): 
->Data were obited and collected from differernt websit and app
+>Data were obited and collected from differernt news websit and social media
 
 Country  |   Number of Collision from News |  Number of Collision Video
 :-------------------------:|:-------------------------:|:-------------------------:
