@@ -1,7 +1,7 @@
 # Raw Data 
 
 ### NHTSA Standing General Order on Crash Reporting:  
-> Data were obited and collected from [NHTSA](https://www.nhtsa.gov/) public websited : [Download]()
+> Data were obited and collected from [NHTSA](https://www.nhtsa.gov/) public websited
 
 Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -13,7 +13,7 @@ Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number
 
 ### California Autonomous Vehicle Collision Reports(Short Form):  
 
->PDF files were obited and collected from [CA DMV ](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/)public websited : [Download]()
+>PDF files were obited and collected from [CA DMV ](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/)public websited 
 
 Year  |   Number of Collision Reports|   Number of Disengagement Reports
 :-------------------------:|:-------------------------:|:-------------------------:
