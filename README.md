@@ -11,8 +11,8 @@
 
 ## Download Data: 
 
-Data will be avaialble at April 1th, 2023.
 
+Data will be avaialble at April 1th, 2023.
 
 ### AVOID  Data Summary:  
 Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle
