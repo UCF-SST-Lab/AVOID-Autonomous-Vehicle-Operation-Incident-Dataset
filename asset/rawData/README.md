@@ -1,7 +1,7 @@
 # Raw Data 
 
 ### NHTSA Standing General Order on Crash Reporting:  
-> Data were obited and collected from [NHTSA](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting) public websited : [Download]()
+> Data were obited and collected from [NHTSA](https://www.nhtsa.gov/) public websited : [Download]()
 
 Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
