@@ -54,10 +54,9 @@ Year  |   Number of Collision Reports|   Number of Disengagement Reports
 ### News / Social Media(35): 
 >Data were obited and collected from differernt websit and app
 
-Country  |   Number of Collision from News |  Number of Collision From Video
+Country  |   Number of Collision from News |  Number of Collision Video
 :-------------------------:|:-------------------------:|:-------------------------:
 China | 52 | 20
-Europe | 0 |0
 
 
 ## Citation
