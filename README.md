@@ -36,13 +36,11 @@ Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number
 
 If you use AVOID Dataset in your research , please use the following BibTeX entry.
 ```BibTeX
-@misc{,
-  doi = {DOI: 10.13140/RG.2.2.21627.59680},
-  url = {},
-  author = {Zheng, Ou and Abdel-Aty, Mohamed and Wang, Zijin and Ding, Shengxuan and Wang,DongDong and Huang, Yuxuan },  
-  title = {AVOID: Autonomous Vehicle Operation  Incident  Dataset Across the Globe},
-  publisher = {arXiv},
-  year = {2023}
+@article{zheng2023avoid,
+  title={AVOID: Autonomous Vehicle Operation Incident Dataset Across the Globe},
+  author = {{Zheng}, Ou and {Abdel-Aty}, Mohamed and {Wang}, Zijin and {Ding}, Shengxuan and {Wang}, Dongdong},
+  journal={arXiv preprint arXiv:2303.12889},
+  year={2023}
 }
 ```
 
