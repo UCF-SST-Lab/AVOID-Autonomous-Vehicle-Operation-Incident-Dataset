@@ -35,17 +35,3 @@ Country  |   Number of Collision from News |  Number of Collision Video
 China | 52 | 20
 
 
-## Citation
-
-If you use AVOID Dataset in your research , please use the following BibTeX entry.
-```BibTeX
-@misc{,
-  doi = {,
-  url = {},
-  author = {Zheng, Ou and Abdel-Aty, Mohamed and Wang, Zijin and Ding, Shengxuan and Wang,DongDong },  
-  title = {AVOID: Autonomous Vehicle Operation  Incident  Dataset From Different Country},
-  publisher = {arXiv},
-  year = {2023}
-}
-```
-
