@@ -33,7 +33,7 @@ Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number
 
 # Raw Data 
 
-[Raw data information can be find here](https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/tree/main/asset/rawData)
+[Raw data information can be found here](https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/tree/main/asset/rawData)
 
 ## Citation
 
