@@ -37,7 +37,7 @@ Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number
 2020 | 45 |11|-
 2021 | 180 |249|-
 2022 | 314 |581|3
-2023 | 2 |22|3
+2023 | 55 |22|3
 
 # Raw Data 
 
