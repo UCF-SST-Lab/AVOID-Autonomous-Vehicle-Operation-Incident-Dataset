@@ -1,4 +1,4 @@
-# AVOID: Autonomous Vehicle Operation  Incident  Dataset Across the Globe
+# AVOID: Autonomous Vehicle Operation  Incident  Dataset
 ## Overview
 
 <img src="https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/asset/world.png" width="100%">
