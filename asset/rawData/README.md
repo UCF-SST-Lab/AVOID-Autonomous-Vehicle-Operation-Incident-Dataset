@@ -32,6 +32,6 @@ Year  |   Number of Collision Reports|   Number of Disengagement Reports
 
 Country  |   Number of Collision from News |  Number of Collision Video
 :-------------------------:|:-------------------------:|:-------------------------:
-China | 52 | 20
+China | 57 | 25
 
 
