@@ -27,18 +27,12 @@
 <img src="https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/asset/sankey.png" width="100%">
 
 
-Source  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle |  Total
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-2014 | 1|-|-
-2015 | 9|-|-
-2016 | 15|-|-
-2017 | 29|-|-
-2018 | 75|-|-
-2019 | 102 |2|-
-2020 | 45 |11|-
-2021 | 180 |249|-
-2022 | 314 |581|3
-2023 | 55 |22|3
+Source  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle | Total
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
+CA DMV | 598|0|6|604
+NHTSA | 495|1001|0|1496
+Total | 1093|1001|6|2100
+
 
 # Raw Data 
 
