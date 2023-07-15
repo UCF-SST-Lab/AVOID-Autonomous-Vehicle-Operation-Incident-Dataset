@@ -27,7 +27,7 @@
 <img src="https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/asset/sankey.png" width="100%">
 
 
-Source  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle | Total
+Source  |   Collision from ADS |  Collision From ADAS |Collision From Low Speed Shuttle | Total
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
 CA DMV | 598|0|6|604
 NHTSA | 495|1001|0|1496
