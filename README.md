@@ -27,7 +27,7 @@
 <img src="https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/asset/sankey.png" width="100%">
 
 
-Year  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle
+Source  |   Number of Collision from ADS |  Number of Collision From ADAS | Number of Collision From Low Speed Shuttle |  Total
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 2014 | 1|-|-
 2015 | 9|-|-
