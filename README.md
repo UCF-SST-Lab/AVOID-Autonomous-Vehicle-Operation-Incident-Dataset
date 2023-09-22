@@ -16,10 +16,8 @@
 * update data to 07/14/2023
 * 
 ## Publiction: 
-[Exploratory analysis of injury severity under different levels of driving automation (SAE Level 2-5) using multi-source data](https://www.researchgate.net/publication/370046697_Exploratory_analysis_of_injury_severity_under_different_levels_of_driving_automation_SAE_Level_2-5_using_multi-source_data)
 
 [AVOID: Autonomous Vehicle Operation Incident Dataset](https://www.researchgate.net/publication/369440390_AVOID_Autonomous_Vehicle_Operation_Incident_Dataset_Across_the_Globe)
-
 
 
 ### AVOID  Data Summary:  
