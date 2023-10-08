@@ -26,9 +26,9 @@
 
 Source  |   Collision from ADS |  Collision From ADAS |Collision From Low Speed Shuttle | Total
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
-CA DMV | 598|0|6|604
+CA DMV | 654|0|6|604
 NHTSA | 495|1001|0|1496
-Total | 1093|1001|6|2100
+Total | 1149|1001|6|2156
 
 
 # Raw Data 
