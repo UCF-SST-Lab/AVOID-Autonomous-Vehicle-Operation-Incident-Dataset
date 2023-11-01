@@ -26,7 +26,7 @@ Year  |   Number of Collision Reports|   Number of Disengagement Reports
 2020 | 45 |127
 2021 | 117|112
 2022 | 150|201
-2023 | 55|-
+2023 | 111|-
 ### News / Social Media(57): 
 >Data were obited and collected from differernt news websit and social media
 
