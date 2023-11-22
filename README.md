@@ -1,7 +1,7 @@
 # AVOID: Autonomous Vehicle Operation  Incident  Dataset
 ## Overview
 
-<img src="https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/asset/world.png" width="100%">
+<img src="https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/asset/image.jpg" width="100%">
 
 
 
