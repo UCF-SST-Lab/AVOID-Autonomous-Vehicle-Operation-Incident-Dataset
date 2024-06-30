@@ -15,12 +15,6 @@
 ## What's New
 * update data to 10/08/2023
 * 
-## Publiction: 
-
-[AVOID: Autonomous Vehicle Operation Incident Dataset](https://www.researchgate.net/publication/369440390_AVOID_Autonomous_Vehicle_Operation_Incident_Dataset_Across_the_Globe)
-
-
-
 
 # Raw Data 
 
@@ -34,15 +28,4 @@
 [Shengxuan Ding](https://scholar.google.com/citations?user=OZRGN3gAAAAJ&hl=en&oi=ao) |
 [Dongdong Wang](https://scholar.google.com/citations?user=GQxOz5QAAAAJ&hl=en&oi=ao)
 
-## Citation
-
-If you use AVOID Dataset in your research , please use the following BibTeX entry.
-```BibTeX
-@article{zheng2023avoid,
-  title={AVOID: Autonomous Vehicle Operation Incident Dataset Across the Globe},
-  author = {{Zheng}, Ou and {Abdel-Aty}, Mohamed and {Wang}, Zijin and {Ding}, Shengxuan and {Wang}, Dongdong},
-  journal={arXiv preprint arXiv:2303.12889},
-  year={2023}
-}
-```
 
