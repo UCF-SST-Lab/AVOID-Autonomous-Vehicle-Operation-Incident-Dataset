@@ -20,16 +20,6 @@
 [AVOID: Autonomous Vehicle Operation Incident Dataset](https://www.researchgate.net/publication/369440390_AVOID_Autonomous_Vehicle_Operation_Incident_Dataset_Across_the_Globe)
 
 
-### AVOID  Data Summary:  
-<img src="https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/asset/sankey.png" width="100%">
-
-
-Source  |   Collision from ADS |  Collision From ADAS |Collision From Low Speed Shuttle | Total
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
-CA DMV | 654|0|6|660
-NHTSA | 495|1001|0|1496
-Crash News | 0|80|0|80
-Total | 1149|1081|6|2236
 
 
 # Raw Data 
