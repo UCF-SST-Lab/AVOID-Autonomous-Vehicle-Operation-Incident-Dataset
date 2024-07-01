@@ -9,16 +9,11 @@
 + ADAS: SAE Level 2 advanced driver assistance system
 + Low-speed shuttles: ADS or ADAS equipped shuttle
 
-## Download Data: 
 
-[Click to Download](https://drive.google.com/drive/folders/1cjF60XG2n0Nr0hK6HTKjP0debpaP1TZ0?usp=sharing)
 ## What's New
 * update data to 10/08/2023
 * 
 
-# Raw Data 
-
-[Raw data information can be found here](https://github.com/ozheng1993/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/tree/main/asset/rawData)
 
 ### Contributor
 
