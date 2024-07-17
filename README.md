@@ -12,7 +12,8 @@
 
 ## Full Data Access
 The data are not publicly available due to privacy.
-Please send us a request form (Download form here ) to this email: citysim.ucfsst@gmail.com
+Sample of data is provided in the github page.
+Please send us a request form (Download form here) to this email: citysim.ucfsst@gmail.com
 
 ### Contributor
 
