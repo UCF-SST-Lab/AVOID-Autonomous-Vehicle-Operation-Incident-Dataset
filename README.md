@@ -11,11 +11,10 @@
 
 
 ## Full Data Access
-The data are not publicly available due to privacy.
-Sample of data is provided in the github page(https://github.com/UCF-SST-Lab/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/adas_sample.xlsx)(https://github.com/UCF-SST-Lab/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/ads_sample.xlsx).
-Please send us a request form (Download form here(https://github.com/UCF-SST-Lab/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/Data%20request%20form.pdf) to this email: citysim.ucfsst@gmail.com
 
-The data are not publicly available due to privacy. Sample data is provided on the GitHub page ([ADAS Sample](https://github.com/UCF-SST-Lab/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/adas_sample.xlsx), [ADS Sample](https://github.com/UCF-SST-Lab/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/ads_sample.xlsx)). Please send us a request form ([Download form here](https://github.com/UCF-SST-Lab/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/Data%20request%20form.pdf)) to this email: citysim.ucfsst@gmail.com.
+The data are not publicly available due to privacy. 
+Sample data is provided on the GitHub page ([ADAS Sample](https://github.com/UCF-SST-Lab/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/adas_sample.xlsx), [ADS Sample](https://github.com/UCF-SST-Lab/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/ads_sample.xlsx)). 
+Please send us a request form ([Download form here](https://github.com/UCF-SST-Lab/AVOID-Autonomous-Vehicle-Operation-Incident-Dataset/blob/main/Data%20request%20form.pdf)) to this email: citysim.ucfsst@gmail.com.
 
 ### Contributor
 
